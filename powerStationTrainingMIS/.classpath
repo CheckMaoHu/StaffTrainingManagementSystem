@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="annotationpath" value="/powerStationTrainingMIS/src/forms/TrainDepart"/>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="文档/数据库相关/commons-dbutils-1.7.jar"/>
+	<classpathentry kind="lib" path="文档/数据库相关/mysql-connector-java-8.0.12.jar"/>
+	<classpathentry kind="lib" path="文档/数据库相关/datepicker.jar"/>
+	<classpathentry kind="lib" path="文档/数据库相关/swingx-core-1.6.2.jar"/>
+	<classpathentry kind="lib" path="文档/数据库相关/PowerLogin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
